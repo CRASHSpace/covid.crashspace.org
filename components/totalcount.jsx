@@ -10,13 +10,9 @@ export default ({ limit }) => {
 
   return (
     <div className="sm:rounded-md p-2 hover:no-underline">
-      <a
-        href="/stats"
-        className="rounded-lg inline-block w-full hover:no-underline hover:opacity-75 md:max-w-sm"
-      >
         <div className="flex items-baseline">
           <p className="text-4xl leading-8 mb-1 font-medium text-white">
-            {format(totalCount)}
+            {format(5000)}+
           </p>
         </div>
         <span className="flex justify-between flex-col flex-wrap">
@@ -24,10 +20,9 @@ export default ({ limit }) => {
             Total PPE Delivered &rarr;
           </span>
           <span className="text-xs text-cool-gray-500 font-hairline p-0 m-0">
-            Last updated {formatDate(totals[0].date)}
+            Last updated {formatDate('04/27/2020')}
           </span>
         </span>
-      </a>
     </div>
   )
 }

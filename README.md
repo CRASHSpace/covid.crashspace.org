@@ -1,4 +1,4 @@
-# makers-vs-covid
+# CRASHSpace COVID19
 
 Website for consolidating information on making PPE for the COVID-19 Outbreak.
 

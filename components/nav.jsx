@@ -4,7 +4,7 @@ import { useModal } from 'react-modal-hook'
 import Banner from './banner'
 
 const links = [
-  { href: '/instructions', label: 'Make' },
+  { href: 'https://github.com/CRASHSpace/COVID-19-3dprints', label: 'Make' },
   {
     href: 'https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19',
     label: 'Donate'

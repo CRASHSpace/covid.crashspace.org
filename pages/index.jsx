@@ -12,7 +12,7 @@ export default () => (
       <div className="mx-auto max-w-screen-md xl:max-w-screen-xl w-full flex justify-start xl:justify-around items-start flex-wrap ">
         <div className="text-3xl mx-auto md:m-0 md:max-w-3xl md:text-5xl leading-tight font-black flex items-start flex-wrap text-gray-50 mb-4 sm:mb-12 ">
           Providing PPE to underserved healthcare workers and organizations in
-          NYC.
+          LA.
           <div className="hidden md:flex pt-12 w-full mx-auto flex-wrap justify-start md:flex-nowrap">
             <TotalCount />
             <Donations />
@@ -34,16 +34,6 @@ export default () => (
                   Request PPE
                 </a>
               </div>
-              <span className="text-sm pt-4">
-                For organizations requesting 500+ pieces of PPE,{' '}
-                <a
-                  href="https://bit.ly/nycmakesppe-grant"
-                  className="font-medium"
-                >
-                  click here
-                </a>
-                .
-              </span>
             </div>
           </div>
           <div className="visible md:hidden pt-12 w-full mx-auto flex flex-wrap justify-start md:flex-nowrap">
@@ -56,20 +46,17 @@ export default () => (
     <div className="max-w-3xl mx-auto pt-8">
       <div className="flex-1 mt-4 mb-6 p-4 rounded-lg">
         <p className="text-md leading-normal text-gray-700">
-          <b>NYC Makes PPE</b> is a group of engineers, makers, and healthcare
+          <b>CRASHSpace COVID19</b> is a group of engineers, makers, and healthcare
           professionals leveraging DIY manufacturing technology to support PPE
-          production in NYC.
+          production in LA.
         </p>
         <p className="text-md leading-normal text-gray-700">
-          Columbia University, Weill Cornell Medicine, NYC Resistor, Hack
-          Manhattan, fat cat FAB LAB, Makerspace NYC, CCNY CUNY ASRC, and Bjarke
-          Ingels Group, Matterhackers, Alternew/NYC Face Mask Initiative, and
-          others.
+          Organization 1, Organization 2, Organization 3, and others.
         </p>
         <a className="text-base mr-4" href="/about">
           Learn More
         </a>
-        <a className="text-base" href="/instructions#in-use">
+        <a className="text-base" href="https://github.com/CRASHSpace/COVID-19-3dprints">
           Supported Designs
         </a>
       </div>

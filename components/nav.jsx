@@ -6,11 +6,9 @@ import Banner from './banner'
 const links = [
   { href: '/instructions', label: 'Make' },
   {
-    href: 'https://charity.gofundme.com/o/en/campaign/nyc-makes-ppe-covid-19',
+    href: 'https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19',
     label: 'Donate'
   },
-  { href: '/press', label: 'Press' },
-  { href: '/about', label: 'About' }
 ]
 
 export default function Nav({ home }) {
@@ -23,7 +21,7 @@ export default function Nav({ home }) {
               <a className="flex flex-nowrap items-center">
                 <img src="NYCMakesPPELogo.svg" className="mr-3 w-10" />
                 <span className="text-white font-semibold hidden md:block">
-                  NYCMakesPPE
+                  CRASHSpace COVID19
                 </span>
               </a>
             </Link>

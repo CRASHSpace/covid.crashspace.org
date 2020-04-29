@@ -46,10 +46,10 @@ export default () => (
     <div className="max-w-3xl mx-auto pt-8">
       <div className="flex-1 mt-4 mb-6 p-4 rounded-lg">
         <p className="text-md leading-normal text-gray-700">
-We're mobilzing a collective effort of technologists and artists, hobbyists and aerospace engineers, science teachers and scientists, to join forces to respond to COVID-19. 
+We're mobilizing a collective effort of technologists and artists, hobbyists and aerospace engineers, science teachers and scientists, to join forces to respond to COVID-19. 
         </p>
         <p className="text-md leading-normal text-gray-700">
-We've shown our capacity to build a distributed manufacturing network across Los Angeles and produce thousand approved personal protection equipment designs that were requested and put into use by clincians at local hospitals including Cedars-Sinai and USC Keck.
+We've shown our capacity to build a distributed manufacturing network across Los Angeles and produce thousands of approved personal protection equipment designs that were requested and put into use by clincians at local hospitals including Cedars-Sinai and USC Keck.
         </p>
           <p className="text-md leading-normal text-gray-700">
           We have the tools, the know-how, and the ability to rapidly respond to the challenges that are yet to come. But we need your help.

@@ -17,7 +17,7 @@ export default ({ limit }) => {
         </div>
         <span className="flex justify-between flex-col flex-wrap">
           <span className="text-base w-48 leading-6 p-0 m-0 font-medium text-white hover:no-underline">
-            Total PPE Manufactured &rarr;
+            Total PPE produced &rarr;
           </span>
           <span className="text-xs text-cool-gray-500 font-hairline p-0 m-0">
             Last updated {formatDate('04/28/2020')}

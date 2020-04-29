@@ -44,7 +44,7 @@ export default ({ limit }) => {
     <div className={'bg-white sm:rounded-md p-4 h-full hover:no-underline'}>
       <div>
         <div className="py-2 border-b mb-4  text-xl leading-6 font-medium text-gray-900">
-          Total PPE Produced
+          Total PPE Delivered
         </div>
         <div className="flex item-baseline mb-6">
           <p className="text-6xl leading-8 mb-1 pt-2 font-extrabold text-gray-900">

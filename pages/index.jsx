@@ -46,9 +46,15 @@ export default () => (
     <div className="max-w-3xl mx-auto pt-8">
       <div className="flex-1 mt-4 mb-6 p-4 rounded-lg">
         <p className="text-md leading-normal text-gray-700">
-          <b>CRASHSpace COVID19</b> is a group of engineers, makers, and healthcare
-          professionals leveraging DIY manufacturing technology to support PPE
-          production in LA.
+          We're mobilzing a collective effort of technologists and artists, hobbyists and aerospace engineers, science teachers and scientists, to join forces to respond to COVID-19. <p>
+
+ We've shown our capacity to build a distributed manufacturing network across Los Angeles and produce thousand approved personal protection equipment designs that were requested and put into use by clincians at local hospitals including Cedars-Sinai and USC Keck.<p>
+
+We have the tools, the know-how, and the ability to rapidly respond to the challenges that are yet to come. But we need your help. <p>
+          
+Are you a maker who wants to bring your skills to the cause, a medical professional in need of support, or a community member who wants to make a difference? Join our fight by donating your time, materials, or funding to protect those on the frontlines. <p>
+
+          By helping save their lives, we can help them save us all.
         </p>
         <p className="text-md leading-normal text-gray-700">
           Organization 1, Organization 2, Organization 3, and others.

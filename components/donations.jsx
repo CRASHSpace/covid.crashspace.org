@@ -24,7 +24,7 @@ export default ({ limit }) => {
       >
         <div className="flex items-baseline">
           <p className="text-4xl leading-8 mb-1 font-medium text-white ">
-            {data.raised ? data.raised : hasError ? '$30,862' : 'Loading...'}
+            {'$30,862'}
           </p>
         </div>
         <span className="flex justify-between">

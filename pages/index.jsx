@@ -29,7 +29,7 @@ export default () => (
               <div className="rounded-md ">
                 {/* TODO Replace with LA info */}
                 <a
-                  href="https://bit.ly/nycmakesppe-request"
+                  href="https://bit.ly/crashcovid-request"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
                   Request PPE

@@ -52,7 +52,7 @@ export default () => (
 
 We have the tools, the know-how, and the ability to rapidly respond to the challenges that are yet to come. But we need your help. </p>
           
-Are you a maker who wants to bring your skills to the cause, a medical professional in need of support, or a community member who wants to make a difference? Join our fight by donating your time, materials, or funding to protect those on the frontlines of COVID-19. <p>
+Are you a maker who wants to bring your skills to the cause, a medical professional in need of support, or a community member who wants to make a difference? Join our fight by donating your time, materials, or funding to protect those on the frontlines of COVID-19. </p>
 
           By helping save their lives, we can help them save us all.
         </p>

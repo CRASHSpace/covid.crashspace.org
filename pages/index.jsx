@@ -46,14 +46,19 @@ export default () => (
     <div className="max-w-3xl mx-auto pt-8">
       <div className="flex-1 mt-4 mb-6 p-4 rounded-lg">
         <p className="text-md leading-normal text-gray-700">
- We're mobilzing a collective effort of technologists and artists, hobbyists and aerospace engineers, science teachers and scientists, to join forces to respond to COVID-19. 
-We've shown our capacity to build a distributed manufacturing network across Los Angeles and produce thousand approved personal protection equipment designs that were requested and put into use by clincians at local hospitals including Cedars-Sinai and USC Keck.
-We have the tools, the know-how, and the ability to rapidly respond to the challenges that are yet to come. But we need your help.
-Are you a maker who wants to bring your skills to the cause, a medical professional in need of support, or a community member who wants to make a difference? Join our fight by donating your time, materials, or funding to protect those on the frontlines of COVID-19. 
-By helping save their lives, we can help them save us all.
+We're mobilzing a collective effort of technologists and artists, hobbyists and aerospace engineers, science teachers and scientists, to join forces to respond to COVID-19. 
         </p>
         <p className="text-md leading-normal text-gray-700">
-          Organization 1, Organization 2, Organization 3, and others.
+We've shown our capacity to build a distributed manufacturing network across Los Angeles and produce thousand approved personal protection equipment designs that were requested and put into use by clincians at local hospitals including Cedars-Sinai and USC Keck.
+        </p>
+          <p className="text-md leading-normal text-gray-700">
+          We have the tools, the know-how, and the ability to rapidly respond to the challenges that are yet to come. But we need your help.
+          </p>
+   <p className="text-md leading-normal text-gray-700">
+   Are you a maker who wants to bring your skills to the cause, a medical professional in need of support, or a community member who wants to make a difference? Join our fight by donating your time, materials, or funding to protect those on the frontlines of COVID-19. 
+        </p>
+     <p className="text-md leading-normal text-gray-700">
+       <b> By helping save their lives, we can help them save us all.</b>
         </p>
         <a className="text-base mr-4" href="/about">
           Learn More

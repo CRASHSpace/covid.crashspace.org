@@ -43,7 +43,7 @@ export default function Header(props) {
       <meta name="twitter:image" content={image} />
       <meta name="twitter:creator" content="@crashspaceLA" />
 
-      <link rel="icon" type="image/png" href="/fav.png" />
+      <link rel="icon" type="image/png" href="/crashlogo.png" />
 
       <link rel="stylesheet" href="/css/github-markdown.css" />
       <link

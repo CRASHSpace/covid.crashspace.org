@@ -18,7 +18,7 @@ export default () => (
           </div>
         </div>
         <div className="relative m-0 w-full lg:max-w-sm mb-8 p-0 md:pt-12 lg:p-0">
-          <div className="flex flex-row flex-wrap justify-between rounded-lg">
+          <div className="flex flex-row flex-wrap md:flex-no-wrap lg:flex-no-wrap xl:flex-wrap justify-between rounded-lg">
             <div className="w-full rounded-lg bg-cool-gray-50 m-2 overflow-hidden flex flex-col justify-between p-6">
               <div className="items-baseline">
                 <div className="text-cool-gray-900 pb-3 items-baseline text-black text-xl md:text-2xl leading-tight font-semibold">

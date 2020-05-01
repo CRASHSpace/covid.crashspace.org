@@ -2,7 +2,7 @@ import Head from 'next/head'
 import { GA_TRACKING_ID } from './gtag'
 
 export default function Header(props) {
-  const title = props.title || 'CRASHSpace COVID19'
+  const title = props.title || 'CRASH LA Makers United'
   const description =
     props.description ||
     'Providing PPE to underserved healthcare workers and organizations in LA. We are a group of engineers, makers, and healthcare professionals leveraging DIY manufacturing technology to support PPE production in LA.'

@@ -21,10 +21,10 @@ export default function Nav({ home }) {
           <li>
             <Link href="/">
               <a className="flex flex-nowrap items-center">
-                <a href="https://blog.crashspace.org/">
-                  <img src="crashlogo.png" className="mr-3 w-10" /></a>
+                
+                  <img src="crashlogo.png" className="mr-3 w-10" />
                 <span className="text-white font-semibold hidden md:block">
-                  CRASHSpace COVID19
+                  CRASH LA Makers United
                 </span>
               </a>
             </Link>

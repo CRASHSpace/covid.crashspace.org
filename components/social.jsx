@@ -22,7 +22,7 @@ export default ({ limit }) => {
       </a>
       <a
         target="_blank"
-        href="https://github.com/CRASHSpace"
+        href="https://github.com/CRASHSpace/COVID-19-3dprints"
         className="m-2 p-4 rounded-lg inline-block w-full hover:no-underline bg-gray-50 hover:bg-gray-100 sca"
       >
         <div className="flex items-center justify-between text-gray-600">

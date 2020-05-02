@@ -12,7 +12,7 @@ export default ({ children }) => (
         </div>
         <div className="px-5 py-2">
           <a
-            href="https://github.com/CRASHSpace"
+            href="https://github.com/CRASHSpace/COVID-19-3dprints"
             className="text-base leading-6 text-gray-500 hover:text-gray-900"
           >
             Github

@@ -48,8 +48,8 @@ export default () => (
                 >
                   Manufacture
                 </a>
-              </div><br>
-                            <div className="rounded-md ">
+              </div>
+                <div className="rounded-md ">
                 <a
                   href="https://forms.gle/eHVch9XJXdhz45xX6"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"

@@ -48,7 +48,7 @@ export default () => (
                 >
                   Manufacture
                 </a>
-              </div>
+              </div><br>
                             <div className="rounded-md ">
                 <a
                   href="https://forms.gle/eHVch9XJXdhz45xX6"

@@ -26,6 +26,14 @@ export default ({ children }) => (
             Facebook
           </a>
         </div>
+        <div className="px-5 py-2">
+          <a
+            href="https://vercel.com/"
+            className="text-base leading-6 text-gray-500 hover:text-gray-900"
+          >
+            Powered by Vercel
+          </a>
+        </div>
       </nav>
     </div>
   </div>

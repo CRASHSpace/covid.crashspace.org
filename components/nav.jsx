@@ -7,7 +7,7 @@ const links = [
   { href: 'https://github.com/CRASHSpace/COVID-19-3dprints', label: 'Make' },
   {
     href:
-      'https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19',
+      'https://bit.ly/crashcovid-donate',
     label: 'Donate'
   },
   { href: '/about', label: 'About' }

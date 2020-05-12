@@ -12,7 +12,7 @@ export default ({ limit }) => {
     <div className="sm:rounded-md p-2 hover:no-underline">
         <div className="flex items-baseline">
           <p className="text-4xl leading-8 mb-1 font-medium text-white">
-            {format(7300)}+
+            {format(13012)}+
           </p>
         </div>
         <span className="flex justify-between flex-col flex-wrap">
@@ -20,7 +20,7 @@ export default ({ limit }) => {
             Total PPE produced &rarr;
           </span>
           <span className="text-xs text-cool-gray-500 font-hairline p-0 m-0">
-            Last updated {formatDate('04/28/2020')}
+            Last updated {formatDate('05/12/2020')}
           </span>
         </span>
     </div>

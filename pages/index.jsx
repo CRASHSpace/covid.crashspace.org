@@ -25,7 +25,7 @@ export default () => (
                   Are you an organization or healthcare worker in need of PPE?
                 </div>
               </div>
-              <div className="rounded-md ">
+              <div className="rounded-md">
                 {/* TODO Replace with LA info */}
                 <a
                   href="https://bit.ly/crashcovid-request"
@@ -41,17 +41,18 @@ export default () => (
                   Do you want to help make a difference for those in need?
                 </div>
               </div>
-              <div className="rounded-md ">
+              <div className="rounded-md">
                 <a
-                  href="https://forms.gle/7rvuZP6h2qjGwS4d9"
+                  href="https://bit.ly/crashcovid-manufacture"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
                   Manufacture
                 </a>
               </div>
-                <div className="rounded-md ">
+              <p></p>
+              <div className="rounded-md">
                 <a
-                  href="https://forms.gle/eHVch9XJXdhz45xX6"
+                  href="https://bit.ly/crashcovid-volunteer"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
                   Volunteer

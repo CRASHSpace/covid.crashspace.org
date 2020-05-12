@@ -12,7 +12,7 @@ export default ({ limit }) => {
     <div className="sm:rounded-md p-2 hover:no-underline">
         <div className="flex items-baseline">
           <p className="text-4xl leading-8 mb-1 font-medium text-white">
-            {format(13012)}+
+            {format(11542)}+
           </p>
         </div>
         <span className="flex justify-between flex-col flex-wrap">

@@ -41,15 +41,7 @@ export default () => (
                   Do you want to help make a difference for those in need?
                 </div>
               </div>
-              <div className="rounded-md">
-                <a
-                  href="https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19"
-                  className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
-                >
-                  Donate
-                </a>
-              </div>
-              <p></p>
+              
               <div className="rounded-md">
                 <a
                   href="https://bit.ly/crashcovid-manufacture"
@@ -67,6 +59,16 @@ export default () => (
                   Volunteer
                 </a>
               </div>
+              <p></p>
+              <div className="rounded-md">
+                <a
+                  href="https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19"
+                  className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
+                >
+                  Donate
+                </a>
+              </div>
+              
             </div>
           </div>
           <div className="visible md:hidden pt-12 w-full mx-auto flex flex-wrap justify-start md:flex-nowrap">

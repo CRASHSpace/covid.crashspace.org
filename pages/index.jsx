@@ -53,7 +53,7 @@ export default () => (
               <p></p>
               <div className="rounded-md">
                 <a
-                  href="https://bit.ly/crashcovid-volunteer"
+                  href="https://airtable.com/shrlCYxhObo44LmNs"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
                   Volunteer

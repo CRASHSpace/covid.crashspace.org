@@ -44,7 +44,7 @@ export default () => (
               
               <div className="rounded-md">
                 <a
-                  href="https://bit.ly/crashcovid-manufacture"
+                  href="https://github.com/CRASHSpace/COVID-19-3dprints"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
                   Make

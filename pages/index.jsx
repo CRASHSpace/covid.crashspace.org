@@ -49,6 +49,7 @@ export default () => (
                   Donate
                 </a>
               </div>
+              <p></p>
               <div className="rounded-md">
                 <a
                   href="https://bit.ly/crashcovid-manufacture"

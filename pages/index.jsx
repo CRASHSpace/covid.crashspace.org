@@ -22,7 +22,7 @@ export default () => (
             <div className="w-full rounded-lg bg-cool-gray-50 m-2 overflow-hidden flex flex-col justify-between p-6">
               <div className="items-baseline">
                 <div className="text-cool-gray-900 pb-3 items-baseline text-black text-xl md:text-2xl leading-tight font-semibold">
-                  Are you an organization or healthcare worker in need of PPE?
+                  Are you an organization or worker in need of PPE?
                 </div>
               </div>
               <div className="rounded-md">
@@ -43,10 +43,18 @@ export default () => (
               </div>
               <div className="rounded-md">
                 <a
+                  href="https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19"
+                  className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
+                >
+                  Donate
+                </a>
+              </div>
+              <div className="rounded-md">
+                <a
                   href="https://bit.ly/crashcovid-manufacture"
                   className=" flex items-center justify-center text-white px-2 py-3 bg-cool-gray-900 text-white font-medium rounded-lg"
                 >
-                  Manufacture
+                  Make
                 </a>
               </div>
               <p></p>

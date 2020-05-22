@@ -1,7 +1,8 @@
-import TotalCount from '../components/totalcount'
+import DeliveredCount from '../components/deliveredcount'
 import Donations from '../components/donations'
 import Social from '../components/social'
 import Photos from '../components/photos'
+import ProducedCount from '../components/producedcount'
 import RequestButton from '../components/modal'
 import Footer from '../components/footer'
 import Link from 'next/link'
@@ -13,7 +14,7 @@ export default () => (
         <div className="text-3xl mx-auto md:m-0 md:max-w-3xl md:text-5xl leading-tight font-black flex items-start flex-wrap text-gray-50 mb-4 sm:mb-12 ">
           Providing protection to those on the frontlines of the COVID crisis.
           <div className="hidden md:flex pt-12 w-full mx-auto flex-wrap justify-start md:flex-nowrap">
-            <TotalCount />
+            <DeliveredCount />
             <Donations />
           </div>
         </div>
@@ -72,7 +73,7 @@ export default () => (
             </div>
           </div>
           <div className="visible md:hidden pt-12 w-full mx-auto flex flex-wrap justify-start md:flex-nowrap">
-            <TotalCount />
+            <DeliveredCount />
             <Donations />
           </div>
         </div>

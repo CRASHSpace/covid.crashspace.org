@@ -81,8 +81,6 @@ export default () => (
     </div>
     <div className="max-w-3xl mx-auto pt-8">
       <div className="flex-1 mt-4 mb-6 p-4 rounded-lg">
-        <iframe width="676.5" height="420" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmzFk7IoTXVYOxnbqpKKOGRk6tqDGfe7ZLycdSaGu08pSEh0QfcT9zxTGSRiyoQpdmpRo0rqZ_a5w/pubchart?oid=980429192&amp;format=interactive"></iframe>
-        <iframe width="709" height="371" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmzFk7IoTXVYOxnbqpKKOGRk6tqDGfe7ZLycdSaGu08pSEh0QfcT9zxTGSRiyoQpdmpRo0rqZ_a5w/pubchart?oid=2048375564&amp;format=interactive"></iframe>
         <p className="text-md leading-normal text-gray-700">
           We're mobilizing a collective effort of technologists and artists,
           hobbyists and aerospace engineers, science teachers and scientists, to
@@ -94,8 +92,6 @@ export default () => (
           protection equipment designs that were requested and put into use by
           clincians at local hospitals including Cedars-Sinai and USC Keck.
         </p>
-        <iframe width="700" height="420" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmzFk7IoTXVYOxnbqpKKOGRk6tqDGfe7ZLycdSaGu08pSEh0QfcT9zxTGSRiyoQpdmpRo0rqZ_a5w/pubhtml?gid=532034239&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-        <p></p>
         <p className="text-md leading-normal text-gray-700">
           We have the tools, the know-how, and the ability to rapidly respond to
           the challenges that are yet to come. But we need your help.

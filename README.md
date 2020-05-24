@@ -2,6 +2,10 @@
 
 Website for consolidating information on making PPE for the COVID-19 Outbreak.
 
+Template by NYC Makes PPE
+original repo:
+https://github.com/NYCPPE/nyc-makers-vs-covid
+
 ## How to develop and build the site
 
 To run the site locally `yarn` and then `yarn dev`.

@@ -28,6 +28,15 @@ export default ({ children }) => (
         </div>
         <div className="px-5 py-2">
           <a
+            href="https://nycmakesppe.com/"
+            className="text-base leading-6 text-gray-500 hover:text-gray-900"
+          >
+            Template by NYC Makes PPE
+          </a>
+        </div>
+        
+        <div className="px-5 py-2">
+          <a
             href="https://vercel.com?utm_source=crashcovid"
             className="text-base leading-6 text-gray-500 hover:text-gray-900"
           >

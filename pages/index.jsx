@@ -2,6 +2,7 @@ import DeliveredCount from '../components/deliveredcount'
 import Donations from '../components/donations'
 import Social from '../components/social'
 import Photos from '../components/photos'
+import Partners from '../components/partners'
 import ProducedCount from '../components/producedcount'
 import RequestButton from '../components/modal'
 import Footer from '../components/footer'
@@ -115,6 +116,7 @@ export default () => (
           Supported Designs
         </a>
       </div>
+      <Partners />
       <Photos />
     </div>
   </div>

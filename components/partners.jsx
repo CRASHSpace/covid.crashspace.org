@@ -53,6 +53,14 @@ export default () => (
           src="/partner_logos/protect_native_elders.png"
         />
       </span>
+            <span className="w-8 h-8"></span>
+
+      <span className=" overflow-hidden md:w-1/3">
+        <img
+          className="img-fluid"
+          src="/partner_logos/anspar.png"
+        />
+      </span>
            
 </div>
 
